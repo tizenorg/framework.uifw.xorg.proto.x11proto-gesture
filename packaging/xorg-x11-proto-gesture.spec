@@ -1,6 +1,6 @@
 Name:     xorg-x11-proto-gesture
 Summary:  X.Org X11 Protocol gestureproto
-Version:  0.1.0
+Version:  0.1.1
 Release:  3
 Group:    Development/System
 License:  MIT

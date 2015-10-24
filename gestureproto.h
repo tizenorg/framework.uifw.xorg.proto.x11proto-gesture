@@ -31,7 +31,7 @@
 
 #define Fixed	    INT32
 
-#define GESTURE_EXT_NAME "X Gesture Extension"
+#define GESTURE_EXT_NAME "XGestureExtension"
 
 #define GESTURE_MAJOR	0	/* current version numbers */
 #define GESTURE_MINOR	1
